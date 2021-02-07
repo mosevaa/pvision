@@ -1,0 +1,8 @@
+train: ../dataset/images/train  # 128 images
+val: ../dataset/images/val # 128 images
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'helmet',vest ]
